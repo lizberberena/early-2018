@@ -82,7 +82,7 @@ blockquote {
 }
 
 #postbody a {
-    color: #4C785D;
+    color: #B10303;
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear;
 }
@@ -128,7 +128,7 @@ button {
     border-radius: 5px;
     font-size: 12pt;
     color: white;
-    background-color: #4C785D;
+    background-color: #B10303;
     opacity: .5;
     -webkit-transition: all 100ms linear;
     transition: all 100ms linear;
@@ -143,7 +143,7 @@ button:hover {
 }
 
 .blogfa {
-    color: #4C785D;
+    color: #B10303;
     opacity: .5;
     -webkit-transition: all 100ms linear;
     transition: all 100ms linear;
@@ -239,7 +239,7 @@ button#dropdownMenuButton.btn.btn-secondary:active .fa-bars {
 .fa-bars {
     margin-top: 3%;
     float: right;
-    color: #4C785D;
+    color: #B10303;
 }
 
 .dropdown-menu {
@@ -256,7 +256,7 @@ button#dropdownMenuButton.btn.btn-secondary:active .fa-bars {
 }
 
 .dropdown-menu a:active {
-    background-color: #4C785D;
+    background-color: #B10303;
 }
 
 #logo {
@@ -336,7 +336,7 @@ a:hover {
 
 #home a,
 #postlist a {
-    color: #4C785D;
+    color: #B10303;
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear;
 }
@@ -347,7 +347,7 @@ a:hover {
 }
 
 #work a {
-    color: #4C785D;
+    color: #B10303;
 }
 
 #work a:hover {
@@ -357,7 +357,7 @@ a:hover {
 .project:hover {
     cursor: pointer;
     opacity: .8;
-    text-decoration: #4C785D underline;
+    text-decoration: #B10303 underline;
 }
 
 #sidedisplay {
@@ -395,7 +395,7 @@ a:hover {
 }
 
 #social .fa {
-    color: #4C785D;
+    color: #B10303;
     opacity: .5;
     -webkit-transition: all 100ms linear;
     transition: all 100ms linear;
