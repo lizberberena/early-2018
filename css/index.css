@@ -323,10 +323,10 @@ a:hover {
 #postdisplay {
     padding: 0%;
     background-color: white;
-	height: calc(100vh - 120px);
-    height: -o-calc(100vh - 120px); /* opera */
-    height: -webkit-calc(100vh - 120px); /* google, safari */
-    height: -moz-calc(100vh - 120px); /* firefox */
+	height: calc(100vh - 105px);
+    height: -o-calc(100vh - 105px); /* opera */
+    height: -webkit-calc(100vh - 105px); /* google, safari */
+    height: -moz-calc(100vh - 105px); /* firefox */
 }
 
 #home,
